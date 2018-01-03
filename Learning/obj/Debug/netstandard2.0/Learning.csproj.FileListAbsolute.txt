@@ -1,0 +1,11 @@
+C:\Users\Sex God\Documents\xamarin\Learning\Learning\Learning\bin\Debug\netstandard2.0\Learning.deps.json
+C:\Users\Sex God\Documents\xamarin\Learning\Learning\Learning\bin\Debug\netstandard2.0\Learning.dll
+C:\Users\Sex God\Documents\xamarin\Learning\Learning\Learning\bin\Debug\netstandard2.0\Learning.pdb
+C:\Users\Sex God\Documents\xamarin\Learning\Learning\Learning\obj\Debug\netstandard2.0\Learning.csprojResolveAssemblyReference.cache
+C:\Users\Sex God\Documents\xamarin\Learning\Learning\Learning\obj\Debug\netstandard2.0\Learning.csproj.CoreCompileInputs.cache
+C:\Users\Sex God\Documents\xamarin\Learning\Learning\Learning\obj\Debug\netstandard2.0\Learning.App.xaml.g.cs
+C:\Users\Sex God\Documents\xamarin\Learning\Learning\Learning\obj\Debug\netstandard2.0\Learning.MainPage.xaml.g.cs
+C:\Users\Sex God\Documents\xamarin\Learning\Learning\Learning\obj\Debug\netstandard2.0\Learning.AssemblyInfoInputs.cache
+C:\Users\Sex God\Documents\xamarin\Learning\Learning\Learning\obj\Debug\netstandard2.0\Learning.AssemblyInfo.cs
+C:\Users\Sex God\Documents\xamarin\Learning\Learning\Learning\obj\Debug\netstandard2.0\Learning.dll
+C:\Users\Sex God\Documents\xamarin\Learning\Learning\Learning\obj\Debug\netstandard2.0\Learning.pdb
